@@ -1,10 +1,3 @@
-/*
-  file       //    main.c
-  author    //   Abdulrahman Gomaa Mostafa
-  date     //   Thursday  14 May 2026
-  brief   //   LSH (Libstephen SHell)
-*/
-
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <unistd.h>
